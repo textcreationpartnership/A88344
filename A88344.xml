@@ -1,0 +1,483 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the names of such persons who are thought fit for their accomodation, and the furtherance of the service in Ireland, to be entertained as reformadoes and to receive the halfe pay due to the severall officers here under named, untill opportunity be offered, according to their merit, further to prefer them; or that order be given to the contrary, by the Committee at Guildhall London, 1642.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88344</idno>
+            <idno type="STC">Wing L2465</idno>
+            <idno type="STC">Thomason 669.f.6[32]</idno>
+            <idno type="STC">ESTC R212367</idno>
+            <idno type="EEBO-CITATION">99870991</idno>
+            <idno type="PROQUEST">99870991</idno>
+            <idno type="VID">160893</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88344)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160893)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f6[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the names of such persons who are thought fit for their accomodation, and the furtherance of the service in Ireland, to be entertained as reformadoes and to receive the halfe pay due to the severall officers here under named, untill opportunity be offered, according to their merit, further to prefer them; or that order be given to the contrary, by the Committee at Guildhall London, 1642.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Austin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 16. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="roster">
+            <pb facs="tcp:160893:1"/>
+            <head>A LIST OF THE NAMES OF SUCH PERSONS
+Who are thought fit for their Accommodation, and the furtherance of the Service in Ireland, to be entertained
+as Reformadoes; And to receive the halfe Pay due to the ſeverall Officers here under named, untill opportunity
+be offered, according to their merit, further to prefer them; or that Order be given to the contrary, by the
+Committee at Guildehall London, 1642.</head>
+            <list>
+               <head>Captains of Horſe.</head>
+               <item>William Pretty.</item>
+               <item>James Wroughton.</item>
+               <item>Thomas Temple.</item>
+               <item>James Regnolds.</item>
+            </list>
+            <list>
+               <head>Livetenants of Horſe.</head>
+               <item>Stephen Crow.</item>
+               <item>Henry Sanderſon.</item>
+               <item>Richard Stevens.</item>
+               <item>Joſeph Cockain.</item>
+               <item>William Anſelme.</item>
+               <item>Samuell Boſſa.</item>
+               <item>Troibus Turbervill.</item>
+            </list>
+            <list>
+               <head>Coronets of Horſe.</head>
+               <item>Henry Woodnorth.</item>
+               <item>William Dowthwayte.</item>
+               <item>Iohn Degennes. Waynford.</item>
+               <item>Nicholas Throgmorton.</item>
+            </list>
+            <list>
+               <head>Coronets.</head>
+               <item>William Baker.</item>
+               <item>Chicheſter Phillips</item>
+               <item>Nicholas Shuttleworth.</item>
+               <item>Randoll Cleyton.</item>
+               <item>Joſeph Jaques.</item>
+               <item>Quarter-Maſters of Horſe.</item>
+               <item>Andrew Andrews.</item>
+               <item>Arnold Haywood.</item>
+               <item>Richard Stevens.</item>
+               <item>Paul Scober.</item>
+               <item>John Nelſon.</item>
+               <item>Richard Moore.</item>
+               <item>Edward Maxwell.</item>
+               <item>William Tovey.</item>
+               <item>Henry Steward.</item>
+               <item>Paul Greſham.</item>
+            </list>
+            <list>
+               <head>Colonell of Foot.</head>
+               <item>Henry Billingſley.</item>
+               <item>Livetenant Colonell of Foot.</item>
+               <item>Sir Kobert Winckfield.</item>
+               <item>Edward Aldridge.</item>
+               <item>Francis Clarke.</item>
+               <item>Serjant-Majors of Foot.</item>
+               <item>John Holeman.</item>
+               <item>Thomas Dymocke.</item>
+               <item>Edward Rowſe.</item>
+            </list>
+            <list>
+               <head>Captains of Foot.</head>
+               <item>Walter Ayleworth.</item>
+               <item>Moyſes Treſwell.</item>
+               <item>Sir Thomas Piggit.</item>
+               <item>Francis Wilſon.</item>
+               <item>Jo. Drake.</item>
+               <item>Jo. Powell.</item>
+               <item>Jo. Errington.</item>
+               <item>Anthony Anderſon.</item>
+               <item>Thomas Laward</item>
+               <item>Walter Owen.</item>
+               <item>Richard Catter.</item>
+               <item>Thomas Rogers.</item>
+               <item>Henry Crow.</item>
+               <item>James Uſher.</item>
+               <item>Jo. Browne.</item>
+               <item>Inde Leigh.</item>
+               <item>Henry Aſhley.</item>
+               <item>Jo. Bayley.</item>
+               <item>Thomas Buſhell.</item>
+               <item>Thomas Gaudy.</item>
+               <item>Jo. Bolls.</item>
+               <item>Jo: Waidegrave.</item>
+               <item>Jo. Parkinſon.</item>
+               <item>George Welch.</item>
+               <item>Francis Fairfax.</item>
+               <item>Jo. Dillon.</item>
+               <item>Thomas Bredman.</item>
+               <item>Humphrey Mathewes.</item>
+               <item>George Purfoy.</item>
+               <item>James Powell.</item>
+               <item>Thomas Gilborne.</item>
+               <item>Thomas Ward.</item>
+               <item>Jo. Heigham.</item>
+               <item>Henry Fotherby.</item>
+               <item>George Lower.</item>
+               <item>Sir William Fenton.</item>
+               <item>William Butler.</item>
+               <item>Oliver Wheeler.</item>
+               <item>Sir Iohn Leake.</item>
+               <item>Francis Turner.</item>
+            </list>
+            <list>
+               <head>Colonell-Captains.</head>
+               <item>Robert Hanſon.</item>
+               <item>Humphrey Cory.</item>
+               <item>William Batters.</item>
+               <item>Phillip Dutton.</item>
+               <item>Edward Sanders.</item>
+               <item>Theodore Palealogus.</item>
+               <item>Preſtland Molleneux.</item>
+               <item>Richard Iones.</item>
+            </list>
+            <list>
+               <head>Lievetenants of Foot.</head>
+               <item>Iohn Pollocke.</item>
+               <item>Marmaduke Pudſey.</item>
+               <item>Chriſtopher Bingham.</item>
+               <item>Francis Dingley.</item>
+               <item>Thomas Lee.</item>
+               <item>Io. Balſton.</item>
+               <item>Iames Moore.</item>
+               <item>Henry Ward.</item>
+               <item>Io. Robinſon.</item>
+               <item>Iohn Flood.</item>
+               <item>Io. Bower.</item>
+               <item>Theodore Willet.</item>
+               <item>Robert Turner.</item>
+               <item>Iſaac Challice.</item>
+               <item>William Cheney.</item>
+               <item>Edward Watts.</item>
+               <item>Roger Hidden.</item>
+               <item>Robert Fennour.</item>
+               <item>Henry Sommerſtar.</item>
+               <item>Jo. Exton.</item>
+               <item>Oſmond Williams.</item>
+               <item>William Reſton.</item>
+               <item>William Spry.</item>
+               <item>Titus Layton.</item>
+               <item>William Cornay.</item>
+               <item>John Marſhall.</item>
+               <item>Thomas Molleneux.</item>
+               <item>Robert Wilſheere.</item>
+               <item>George Phenix.</item>
+               <item>Thomas Ruſh.</item>
+            </list>
+            <list>
+               <head>Colonell Enſigne of Foot.</head>
+               <item>Robert Ludlowe.</item>
+               <item>William Cowſe.</item>
+            </list>
+            <list>
+               <head>Captains Enſigns.</head>
+               <item>Henry Bennett.</item>
+               <item>Francis Jones.</item>
+               <item>Jo. Clifton.</item>
+               <item>Chriſtopher Elſinge.</item>
+               <item>Francis Fitzhughes.</item>
+               <item>Anthony Maſham.</item>
+               <item>Edward Goodwin.</item>
+               <item>Roger Walter.</item>
+               <item>Jaſper Brand.</item>
+               <item>Edward Wood.</item>
+               <item>Francis Rogers.</item>
+               <item>Humphrey Dymocke.</item>
+               <item>Thomas Dover.</item>
+               <item>William Tucke.</item>
+               <item>James Anderſon.</item>
+               <item>George Fulwood.</item>
+               <item>James Aſhley,</item>
+               <item>Henry Blundell.</item>
+               <item>Edward Johnſon.</item>
+               <item>Jo: Shancks.</item>
+               <item>William Skipwith.</item>
+               <item>Herald Gamble.</item>
+               <item>Jo: Gratwicke.</item>
+               <item>Ed. Hodgedon.</item>
+               <item>Thomas Button.</item>
+               <item>Thomas Garret.</item>
+               <item>Thomas Gwalter.</item>
+               <item>Robert Blunt.</item>
+               <item>Ellias Walley.</item>
+               <item>Henry Mills.</item>
+               <item>Robert Manly.</item>
+               <item>Michael Cooke.</item>
+               <item>Howard Kellet.</item>
+               <item>Thomas Rookes.</item>
+               <item>Lewis Pemberton.</item>
+               <item>Jo: VVilſheere.</item>
+               <item>Jo: Jervis.</item>
+               <item>Jo: Licence.</item>
+               <item>VValter Powell.</item>
+               <item>Io: Myn.</item>
+               <item>Io: Buttell.</item>
+               <item>Hugh Iuſtice.</item>
+               <item>Io: Hillerſden.</item>
+               <item>Richard Parker.</item>
+               <item>Francis Bland.</item>
+               <item>Roger VVeſt.</item>
+               <item>Roger VVillet.</item>
+               <item>Iohn Muſgrave.</item>
+               <item>Bartholomew Barns.</item>
+               <item>Io: Parris.</item>
+               <item>Miles Hitchcocke.</item>
+            </list>
+            <list>
+               <head>Other Officers liſted by the ſaid Comittee.</head>
+               <item>Firſt Pay-Maſter of Horſe and
+Foot, and all others that be<g ref="char:EOLhyphen"/>longs
+to the Army, Nicholas Bond.</item>
+               <item>His two Clerks; One of them to be em<g ref="char:EOLhyphen"/>ployed
+in the Payment and keeping of
+Accompts for the trayn of Artillery.</item>
+               <item>Comiſſary of the Victuals in <hi>England, Walt. Froſt.</hi>
+               </item>
+               <item>His Clerk.</item>
+               <item>Comiſſary of the fixed Magazine, <hi>Robert Goodwin</hi>
+               </item>
+               <item>His Clarke, <hi>Richard Blatchford</hi>
+               </item>
+               <item>Comiſary of the victuals in the Army, <hi>Geo. Downing</hi>
+               </item>
+               <item>His Clerke, <hi>Hen. Griffith</hi>
+               </item>
+               <item>Comiſaries of the Muſter, Sir <hi>Edw. Dodſworth</hi>
+               </item>
+               <item>His Clerke, <hi>William Sherwood</hi>
+               </item>
+               <item>Deputy Comiſary of the Muſters, <hi>Benil Predeux</hi>
+               </item>
+               <item>His Clerke, <hi>Gregory Bland</hi>
+               </item>
+               <item>Clerke of the Councel of VVar, <hi>Hen. Delamyne</hi>
+               </item>
+               <item>One of the Phyſitians, Doctor <hi>John King</hi>
+               </item>
+               <item>
+                  <hi>Apothecaries,</hi> Rich: Maning, Miles Raven</item>
+               <item>Controler of the Ordinance
+and chiefe Engineer,
+<list>
+                     <item>Philibert Eman.</item>
+                     <item>Duboyce.</item>
+                  </list>
+               </item>
+               <item>Aſſiant to the Engeneer, <hi>Anthony Outman</hi>
+               </item>
+               <item>Gentlemen of the Ordinance
+<list>
+                     <item>William Batters,</item>
+                     <item>John Jeſopp,</item>
+                     <item>Thomas Vaines.</item>
+                  </list>
+               </item>
+               <item>Comiſary of the Amunition. <hi>Thomas Crant,</hi>
+               </item>
+               <item>His Clerke, <hi>John Willet</hi>
+               </item>
+               <item>Chiefe conductors of the Amu<g ref="char:EOLhyphen"/>nition,
+draught horſes and
+traine of Artillery,
+<list>
+                     <item>Edward Weſt,</item>
+                     <item>William Crawley</item>
+                  </list>
+               </item>
+               <item>Under Conductors of the
+Amunition, and traine of
+Artillery,
+<list>
+                     <item>Edward Waſe,</item>
+                     <item>Nicholas Gardiner,</item>
+                     <item>Edward Hunt.</item>
+                  </list>
+               </item>
+               <item>Maſter Gunner, <hi>Lancelot Haniball</hi>
+               </item>
+               <item>Battery, Maſter and elder Mate
+to the Maſter Gunner, Edward Oakley</item>
+               <item>One Conductor of the Trenches, <hi>Chriſt. Richardſon</hi>
+               </item>
+            </list>
+            <list>
+               <head>The names of ſuch as are not
+yet provided for this
+ſervice.</head>
+               <item>13 Chirurgions.</item>
+               <item>13 Chirurgions Mates.</item>
+               <item>1 Phyſitian</item>
+               <item>4 Miniſters</item>
+               <item>1 Gunners Mate</item>
+               <item>10 Canoneers</item>
+               <item>1 VVorkmaſter</item>
+               <item>1 Conductor of thetrenches</item>
+               <item>3 Carpenters</item>
+               <item>3 VVheel-wrights</item>
+               <item>1 Armorer</item>
+               <item>1 Servant to him</item>
+               <item>1 Gunſmith</item>
+               <item>2 Servants to him</item>
+               <item>1 Stock-Maſter</item>
+               <item>2 Servants to him</item>
+               <item>1 Blackſmith</item>
+               <item>1 Servant to him</item>
+               <item>1 Farrier</item>
+               <item>1 Servant to him</item>
+               <item>1 Harneſſe-maker</item>
+               <item>1 Servant to him</item>
+               <item>1 Cordmaker</item>
+               <item>1 Servant to him.</item>
+            </list>
+            <list>
+               <head>Beſides theſe.</head>
+               <item>7 Smiths, to each troop one</item>
+               <item>7 Sadlers, to each troop one</item>
+            </list>
+            <list>
+               <head>As alſo ſome additions to the Colonell
+generals Regiments.</head>
+               <item>Quartermaſter generall <hi>Hopton Haynes</hi>
+               </item>
+               <item>Provoſt Maſter generall <hi>Geo. Higham</hi>
+               </item>
+               <item>VVaggon Maſter Generall <hi>Deverex Guibon</hi>
+               </item>
+            </list>
+            <list>
+               <head>To the Lord Kerries regiment.</head>
+               <item>Quarter maſter <hi>Zachary Walker</hi>
+               </item>
+               <item>Provoſt Maſter <hi>Richard Warburton.</hi>
+               </item>
+               <item>VVaggin-maſter <hi>Ralph Willins</hi>
+               </item>
+            </list>
+            <list>
+               <head>To Colonell Ballards Regiment.</head>
+               <item>Quarter-Maſter <hi>William Rawlins</hi>
+               </item>
+               <item>Provoſt-Maſter <hi>Benjamin Ludlow</hi>
+               </item>
+               <item>VVaggon Maſter <hi>Francis Gay</hi>
+               </item>
+            </list>
+            <list>
+               <head>To Colodell Eſſex his Regiment.</head>
+               <item>Quarter-Maſter <hi>Chriſtopher Crow</hi>
+               </item>
+               <item>Proveſt-Maſter <hi>Joſua Sing</hi>
+               </item>
+               <item>VVaggon-Maſter <hi>Simon Wheeler</hi>
+               </item>
+            </list>
+            <list>
+               <head>To Colonell Banfeilds Regiment</head>
+               <item>Quarter-Maſter <hi>Chriſtopher Allenſon</hi>
+               </item>
+               <item>Provoſt-Maſter <hi>Thomas Adams</hi>
+               </item>
+               <item>VVaggon-Maſter <hi>Henry Beecher</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for JOHN AVSTIN, June 16. 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
